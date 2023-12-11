@@ -1,0 +1,211 @@
+.osnov-fon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #111a37;
+  width: 943px;
+  height: 2098px;
+}
+.description {
+  position: absolute;
+  top: 33px;
+  left: 254px;
+  font-weight: 800;
+  display: inline-block;
+  width: 384px;
+  height: 114px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.fon {
+  position: absolute;
+  top: 750px;
+  left: 20px;
+  background: linear-gradient(242.08deg, #510c87, rgba(13, 111, 200, 0));
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 911px;
+  height: 526px;
+  overflow: hidden;
+}
+.platforms {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+  color: var(--color-aqua);
+}
+.playstation-41 {
+  text-decoration: underline;
+}
+.pc {
+  color: inherit;
+}
+.playstation-4-pc {
+  font-size: var(--font-size-xl);
+  color: var(--color-orange);
+}
+.playstation-4-pc,
+.xbox-series-sx {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.xbox-one {
+  margin: 0;
+}
+.platforms-playstation-4-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.genre-action-adventure-container,
+.platforms-playstation-4-container {
+  position: absolute;
+  top: 6px;
+  left: 121px;
+  line-height: 133.73%;
+  display: flex;
+  font-weight: 700;
+  align-items: center;
+  width: 189px;
+  height: 305px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.genre-action-adventure-container {
+  top: 202px;
+  height: 355px;
+}
+.c25d6fd1fd34a4e6dade645a3bda7-icon {
+  position: absolute;
+  top: 7px;
+  left: 449px;
+  border-radius: 21px;
+  width: 462px;
+  height: 266px;
+  object-fit: cover;
+}
+.cd22af9d6ac593440defac6082760e-icon {
+  position: absolute;
+  top: 271px;
+  left: 452px;
+  border-radius: 17px;
+  width: 459px;
+  height: 254px;
+  object-fit: cover;
+}
+.cyberpunk-2077-is,
+.fon1 {
+  position: absolute;
+  font-family: var(--font-lato);
+  text-align: center;
+}
+.fon1 {
+  top: 1288px;
+  left: 20px;
+  background: linear-gradient(242.08deg, #510c87, rgba(13, 111, 200, 0));
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 911px;
+  height: 526px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  color: inherit;
+}
+.cyberpunk-2077-is {
+  top: 865px;
+  left: 34px;
+  font-size: 36px;
+  line-height: 133.73%;
+  display: flex;
+  font-weight: 700;
+  color: var(--color-orange);
+  align-items: center;
+  justify-content: center;
+  width: 882px;
+  height: 389px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.footer {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  background-color: var(--color-orange);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px #000;
+  width: 943px;
+  height: 136px;
+}
+.cyberpunk-child,
+.logo-icon {
+  position: absolute;
+  top: 51px;
+  left: 39px;
+  width: 25px;
+  height: 41px;
+}
+.logo-icon {
+  top: 19px;
+  left: 209px;
+  width: 526px;
+  height: 112px;
+  object-fit: cover;
+}
+.cyberpunk-item {
+  position: absolute;
+  top: 1885.1px;
+  left: -8.9px;
+  width: 960.8px;
+  height: 212.9px;
+}
+.image-1-icon {
+  position: relative;
+  width: 853px;
+  height: 378px;
+  object-fit: cover;
+}
+.image-1-wrapper {
+  position: absolute;
+  top: 313px;
+  left: 49px;
+  width: 853px;
+  height: 378px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cyberpunk-2077 {
+  position: absolute;
+  top: 177px;
+  left: 239px;
+  font-weight: 800;
+  display: inline-block;
+  width: 738px;
+  height: 114px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.menu-icon {
+  position: absolute;
+  top: 281px;
+  left: -4px;
+  width: 951px;
+  height: 1825px;
+}
+.videogame-asset-icon,
+.videogame-asset-icon1 {
+  position: absolute;
+  top: 155px;
+  left: 77px;
+  width: 136.38px;
+  height: 136.38px;
+}
+.videogame-asset-icon1 {
+  left: 787px;
+}
+.cyberpunk {
+  position: relative;
+  width: 100%;
+  height: 2098px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-aqua);
+  font-family: var(--font-inter);
+}

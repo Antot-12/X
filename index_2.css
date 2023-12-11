@@ -1,0 +1,223 @@
+.osnov-fon {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  background-color: #0f162c;
+  width: 943px;
+  height: 2102px;
+}
+.delete-1-remove-add-button-bu-icon {
+  position: absolute;
+  top: 586px;
+  left: 841px;
+  width: 54px;
+  height: 54px;
+  overflow: hidden;
+}
+.footer {
+  position: absolute;
+  top: -4px;
+  left: 0;
+  background-color: #f5a524;
+  width: 943px;
+  height: 136px;
+}
+.setting-child {
+  position: absolute;
+  top: 51px;
+  left: 39px;
+  width: 25px;
+  height: 41px;
+}
+.image-2-icon,
+.logo-icon {
+  position: absolute;
+  top: 12px;
+  left: 209px;
+  width: 526px;
+  height: 112px;
+  object-fit: cover;
+}
+.image-2-icon {
+  top: 171px;
+  left: 390px;
+  width: 496px;
+  height: 190px;
+}
+.hand-cursor-hand-select-curso-icon {
+  position: absolute;
+  top: 68.49px;
+  left: 505px;
+  width: 72px;
+  height: 72px;
+  overflow: hidden;
+}
+.antot-12,
+.fon {
+  position: absolute;
+}
+.fon {
+  top: 0;
+  left: 0;
+  background: linear-gradient(242.08deg, #510c87, rgba(13, 111, 200, 0));
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 911px;
+  height: 375.25px;
+  overflow: hidden;
+}
+.antot-12 {
+  top: 48.16px;
+  left: 592px;
+  font-weight: 800;
+  width: 322px;
+  height: 88.29px;
+}
+.about-me,
+.antot-12,
+.change-nickname,
+.settings {
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.settings {
+  position: absolute;
+  top: 420.4px;
+  left: 42px;
+  font-weight: 800;
+  width: 322px;
+  height: 88.29px;
+}
+.about-me,
+.change-nickname {
+  left: 16px;
+  font-size: var(--font-size-17xl);
+  font-weight: 700;
+  width: 373px;
+  height: 62.21px;
+}
+.change-nickname {
+  position: absolute;
+  top: 542.49px;
+}
+.about-me {
+  top: 743.49px;
+}
+.about-me,
+.b,
+.items {
+  position: absolute;
+}
+.b {
+  top: 110.37px;
+  left: 353px;
+  font-size: 32px;
+  font-weight: 800;
+  color: rgba(147, 175, 196, 0.6);
+  display: inline-block;
+  width: 162px;
+  height: 44.15px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px rgba(45, 42, 42, 0.66);
+}
+.items {
+  top: 150.51px;
+  left: 18px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 914px;
+  height: 805.69px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-aqua);
+}
+.setting-item {
+  position: absolute;
+  top: 304.5px;
+  left: 356.5px;
+  border-top: 5px solid var(--color-aquamarine);
+  box-sizing: border-box;
+  width: 575px;
+  height: 5px;
+}
+.line-div,
+.setting-inner {
+  position: absolute;
+  top: 658px;
+  left: 0;
+  width: 929px;
+  height: 5px;
+}
+.line-div {
+  top: 154.5px;
+  left: 359.5px;
+  border-right: 5px solid var(--color-aquamarine);
+  box-sizing: border-box;
+  width: 5px;
+  height: 367px;
+}
+.antot-20,
+.antot-20-wrapper {
+  position: absolute;
+  height: 72px;
+}
+.antot-20 {
+  top: 0;
+  left: 167px;
+  line-height: 24px;
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  width: 200px;
+}
+.antot-20-wrapper {
+  top: 739px;
+  left: 452px;
+  background-color: var(--color-midnightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 480px;
+  overflow: hidden;
+}
+.enter-your-text {
+  position: absolute;
+  top: 36px;
+  left: 152px;
+  line-height: 24px;
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  width: 287px;
+  height: 87px;
+}
+.enter-your-text-wrapper {
+  position: absolute;
+  top: 956px;
+  left: 369px;
+  background-color: var(--color-midnightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 560px;
+  height: 161px;
+  overflow: hidden;
+}
+.c2391cbdd2a5b3302e6861183234dd-icon {
+  position: absolute;
+  top: 189.8px;
+  left: 51.8px;
+  width: 288.4px;
+  height: 289.4px;
+  object-fit: cover;
+}
+.setting {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2098px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}

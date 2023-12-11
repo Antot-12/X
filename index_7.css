@@ -1,0 +1,145 @@
+.footer,
+.osnov-fon,
+.shooter-child {
+  position: absolute;
+  left: 0;
+  width: 943px;
+}
+.osnov-fon {
+  top: 0;
+  background-color: #0f162c;
+  height: 2098px;
+}
+.footer,
+.shooter-child {
+  top: 1903px;
+  background-color: var(--color-orange);
+  height: 195px;
+}
+.footer {
+  top: 3px;
+  height: 136px;
+}
+.logo-icon,
+.shooter-item {
+  position: absolute;
+  top: 51px;
+  left: 39px;
+  width: 25px;
+  height: 41px;
+}
+.logo-icon {
+  top: 19px;
+  left: 209px;
+  width: 526px;
+  height: 112px;
+  object-fit: cover;
+}
+.menu-icon {
+  position: absolute;
+  top: 1903px;
+  left: 29px;
+  width: 681px;
+  height: 195px;
+}
+.user-single-neutral-male-clos-icon {
+  position: absolute;
+  height: 7.39%;
+  width: 16.44%;
+  top: 91.85%;
+  right: 3.29%;
+  bottom: 0.76%;
+  left: 80.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.shooter-inner {
+  position: absolute;
+  top: 159px;
+  left: 7px;
+  background-color: #111c3e;
+  width: 5px;
+  height: 1722px;
+}
+.fon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(242.08deg, #510c87, rgba(13, 111, 200, 0));
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 911px;
+  height: 375.25px;
+  overflow: hidden;
+}
+.communityicon-8xxmc66qs9j51-1,
+.x512-1-icon {
+  position: absolute;
+  top: 55px;
+  left: 28px;
+  width: 303px;
+  height: 303px;
+  object-fit: cover;
+}
+.communityicon-8xxmc66qs9j51-1 {
+  top: 60px;
+  left: 52px;
+  width: 279px;
+  height: 279px;
+}
+.sod {
+  position: absolute;
+  top: 15px;
+  left: 161px;
+  line-height: 24px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 852px;
+  height: 136px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.the-dead-have {
+  position: absolute;
+  top: 167px;
+  left: 358px;
+  font-size: 24px;
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-orange);
+  text-align: left;
+  width: 546px;
+  height: 154px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.data-saver-on-icon,
+.ggg {
+  position: absolute;
+  top: 21px;
+  left: 291px;
+  width: 79px;
+  height: 80.42px;
+}
+.ggg {
+  top: 155px;
+  left: 19px;
+  width: 1013px;
+  height: 377px;
+}
+.shooter {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2095px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 96px;
+  color: #0bf1ff;
+  font-family: var(--font-inter);
+}

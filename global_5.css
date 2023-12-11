@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-77xl: 96px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-orange: #f5a524;
+  --color-aqua: #0bf1ff;
+  --color-black: #000;
+  --color-gray-100: #111c3e;
+  --color-gray-200: #0f162c;
+}

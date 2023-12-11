@@ -1,0 +1,459 @@
+.fantasy-child,
+.footer,
+.osnov-fon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 943px;
+  height: 2098px;
+}
+.fantasy-child,
+.footer {
+  top: 1903px;
+  background-color: var(--color-orange);
+  height: 195px;
+}
+.footer {
+  top: 3px;
+  height: 136px;
+}
+.fantasy-item,
+.logo-icon {
+  position: absolute;
+  top: 51px;
+  left: 39px;
+  width: 25px;
+  height: 41px;
+}
+.logo-icon {
+  top: 19px;
+  left: 209px;
+  width: 526px;
+  height: 112px;
+  object-fit: cover;
+}
+.menu-icon {
+  position: absolute;
+  top: 1903px;
+  left: 29px;
+  width: 681px;
+  height: 195px;
+}
+.user-single-neutral-male-clos-icon {
+  position: absolute;
+  height: 7.39%;
+  width: 16.44%;
+  top: 91.85%;
+  right: 3.29%;
+  bottom: 0.76%;
+  left: 80.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fantasy-inner {
+  position: absolute;
+  top: 159px;
+  left: 7px;
+  background-color: var(--color-gray-100);
+  width: 5px;
+  height: 1722px;
+}
+.fon-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 911px;
+  height: 375.25px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.valheim1 {
+  margin: 0;
+}
+.valheim-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.valheim {
+  position: absolute;
+  top: 15px;
+  left: 161px;
+  line-height: 24px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  width: 852px;
+  height: 136px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.a-brutal-exploration {
+  position: absolute;
+  top: 167px;
+  left: 358px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-orange);
+  text-align: left;
+  width: 546px;
+  height: 154px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.items {
+  position: absolute;
+  top: 156px;
+  left: 12px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1013px;
+  height: 375.25px;
+}
+.footer1,
+.osnov-fon1,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 1220px;
+  background-color: var(--color-gray-200);
+  width: 943px;
+  height: 2098px;
+}
+.footer1,
+.rectangle-div {
+  top: 1903px;
+  background-color: var(--color-orange);
+  height: 195px;
+}
+.footer1 {
+  top: 3px;
+  height: 136px;
+}
+.logo-icon1 {
+  position: absolute;
+  top: 19px;
+  left: 1433px;
+  width: 518px;
+  height: 104px;
+  object-fit: cover;
+}
+.menu-icon1 {
+  position: absolute;
+  top: 1903px;
+  left: 1253px;
+  width: 674px;
+  height: 195px;
+}
+.user-single-neutral-male-clos-icon1 {
+  position: absolute;
+  height: 7.01%;
+  width: 15.59%;
+  top: 91.85%;
+  right: -125.66%;
+  bottom: 1.14%;
+  left: 210.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fantasy-child1 {
+  position: absolute;
+  top: 159px;
+  left: 1227px;
+  background-color: var(--color-gray-100);
+  width: 5px;
+  height: 1722px;
+}
+.unnamed-1-icon {
+  top: 71px;
+  left: 54px;
+  width: 234px;
+  height: 234px;
+  object-fit: cover;
+}
+.fon,
+.minecraft,
+.unnamed-1-icon {
+  position: absolute;
+}
+.fon {
+  top: 0;
+  left: 0;
+  background: linear-gradient(242.08deg, #510c87, rgba(13, 111, 200, 0));
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 911px;
+  height: 375.25px;
+  overflow: hidden;
+}
+.minecraft {
+  top: 15px;
+  left: 161px;
+  line-height: 24px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 852px;
+  height: 136px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.minecraft-is-a {
+  position: absolute;
+  top: 156px;
+  left: 330px;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-orange);
+  text-align: left;
+  width: 546px;
+  height: 154px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.items1 {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1013px;
+  height: 375.25px;
+}
+.square-american-truck-simulato-icon {
+  position: absolute;
+  top: 52px;
+  left: 35px;
+  width: 271px;
+  height: 271px;
+  object-fit: cover;
+}
+.ats {
+  position: absolute;
+  top: 15px;
+  left: 161px;
+  line-height: 24px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 852px;
+  height: 136px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.experience-legendary-american {
+  position: absolute;
+  top: 142.75px;
+  left: 330px;
+  font-size: 26px;
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-orange);
+  text-align: left;
+  width: 574px;
+  height: 215px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.items2 {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1013px;
+  height: 375.25px;
+}
+.forza-horizon-4-dock-icon-by-k {
+  position: absolute;
+  top: 64px;
+  left: 41px;
+  width: 259px;
+  height: 259px;
+  object-fit: cover;
+}
+.forza-4 {
+  position: absolute;
+  top: 15px;
+  left: 161px;
+  line-height: 24px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 852px;
+  height: 136px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+}
+.dynamic-seasons-change {
+  position: absolute;
+  top: 168.5px;
+  left: 345px;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-orange);
+  text-align: left;
+  width: 546px;
+  height: 154px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.x512-1-icon {
+  position: absolute;
+  top: 55px;
+  left: 28px;
+  width: 303px;
+  height: 303px;
+  object-fit: cover;
+}
+.baldurs-gate-3 {
+  position: absolute;
+  top: 29px;
+  left: 192px;
+  line-height: 24px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 852px;
+  height: 136px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.baldurs-gate-3-container {
+  position: absolute;
+  top: 152.25px;
+  left: 345px;
+  font-size: var(--font-size-9xl);
+  display: inline-block;
+  font-weight: 700;
+  color: var(--color-orange);
+  text-align: left;
+  width: 546px;
+  height: 154px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.items4 {
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1044px;
+  height: 375.25px;
+  font-size: 64px;
+}
+.communityicon-8xxmc66qs9j51-1 {
+  position: absolute;
+  top: 60px;
+  left: 52px;
+  width: 279px;
+  height: 279px;
+  object-fit: cover;
+}
+.items5,
+.x512-1 {
+  position: absolute;
+  top: 0;
+}
+.items5 {
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25),
+    0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1013px;
+  height: 375.25px;
+}
+.x512-1 {
+  left: 130px;
+  width: 303px;
+  height: 303px;
+}
+.deep80r-6cb7896e-2fe0-4d61-984-icon {
+  position: absolute;
+  top: -13px;
+  left: 11px;
+  width: 313px;
+  height: 374px;
+  object-fit: cover;
+}
+.items6 {
+  position: absolute;
+  top: 390px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1013px;
+  height: 375.25px;
+}
+.android-chrome-512x512-1-icon {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  width: 307px;
+  height: 307px;
+  object-fit: cover;
+}
+.items7 {
+  position: absolute;
+  top: 780px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1013px;
+  height: 375.25px;
+}
+.ggg,
+.items-group {
+  width: 1013px;
+  height: 1155.25px;
+}
+.items-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ggg {
+  position: relative;
+}
+.frame-div,
+.items-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.items-parent {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  flex-direction: column;
+  gap: 15px;
+}
+.frame-div {
+  position: absolute;
+  top: 140px;
+  left: 1238px;
+  height: 1751px;
+  overflow-y: auto;
+  flex-direction: row;
+}
+.fantasy {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2095px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-77xl);
+  color: var(--color-aqua);
+  font-family: var(--font-inter);
+}

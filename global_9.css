@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-45xl: 64px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-aqua: #0bf1ff;
+  --color-orange: #f5a524;
+  --color-black: #000;
+}

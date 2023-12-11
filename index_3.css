@@ -1,0 +1,112 @@
+.f2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 943px;
+  height: 2098px;
+}
+.favorites {
+  position: absolute;
+  top: 198px;
+  left: 44px;
+  line-height: 24px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 856px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.crafting-table-icon-1 {
+  position: absolute;
+  top: 313px;
+  left: 24px;
+  width: 378px;
+  height: 378px;
+  object-fit: cover;
+}
+.square-american-truck-simulato-icon {
+  position: absolute;
+  top: 317px;
+  left: 546px;
+  width: 370px;
+  height: 370px;
+  object-fit: cover;
+}
+.dg4q7al-b9a80463-c05e-4809-96a-icon,
+.forza-horizon-4-dock-icon-by-k {
+  position: absolute;
+  top: 769px;
+  left: 24px;
+  width: 387px;
+  height: 387px;
+  object-fit: cover;
+}
+.forza-horizon-4-dock-icon-by-k {
+  top: 763px;
+  left: 523px;
+  width: 393px;
+  height: 393px;
+}
+.heart-reward-social-rating-me-icon,
+.heart-reward-social-rating-me-icon1 {
+  position: absolute;
+  top: 173px;
+  left: 733px;
+  width: 95px;
+  height: 88.32px;
+  overflow: hidden;
+}
+.heart-reward-social-rating-me-icon1 {
+  left: 127px;
+}
+.subtract-1-button-delete-butt-icon,
+.subtract-1-button-delete-butt-icon1 {
+  position: absolute;
+  top: 724px;
+  left: 318px;
+  width: 97px;
+  height: 89px;
+  overflow: hidden;
+}
+.subtract-1-button-delete-butt-icon1 {
+  top: 260px;
+}
+.subtract-1-button-delete-butt-icon2,
+.subtract-1-button-delete-butt-icon3 {
+  position: absolute;
+  top: 260px;
+  left: 839px;
+  width: 97px;
+  height: 89px;
+  overflow: hidden;
+}
+.subtract-1-button-delete-butt-icon3 {
+  top: 717px;
+}
+.delete-1-remove-add-button-bu-icon {
+  position: absolute;
+  top: 222px;
+  left: 877px;
+  width: 54px;
+  height: 54px;
+  overflow: hidden;
+}
+.del-fav-child {
+  position: absolute;
+  top: 51px;
+  left: 39px;
+  width: 25px;
+  height: 41px;
+}
+.del-fav {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2098px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 96px;
+  color: #0bf1ff;
+  font-family: var(--font-inter);
+}
